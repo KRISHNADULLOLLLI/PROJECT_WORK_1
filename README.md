@@ -22,6 +22,9 @@
 ************************************************************************
 
 
-# SIGN_IN AND SIGN_UP PAGE
+* SIGN UP WEBPAGE
+
+<img width="960" alt="signup" src="https://user-images.githubusercontent.com/71308092/102811991-4d1cad80-43ec-11eb-9883-bde5bed2d41d.PNG">
 
 
+* SIGN IN WEBPAGE
